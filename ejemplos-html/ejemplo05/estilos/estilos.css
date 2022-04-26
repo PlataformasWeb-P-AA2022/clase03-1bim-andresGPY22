@@ -13,13 +13,13 @@ th, td {
 }
 
 tr:hover {
-  background-color: #258EAD;
+  background-color: #F4AB14;
 }
 
 /* manejo de las características de las clases*/
 
 .titulodecampo {
-  background: #9999FF;
+  background: #003867;
   color: #000000;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
