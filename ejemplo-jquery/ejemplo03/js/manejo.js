@@ -20,7 +20,9 @@ $(document).ready(function() {
   $("#nombreUniversidad").on( "mouseover", function() {
       $('#nombreUniversidad').css( "color", "black" );
   });
-
+  $("#nombreUniversidad").on( "mouseover", function() {
+      $('body').css( "background", "black" );
+  });
 
 });
 
